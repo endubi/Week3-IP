@@ -7,9 +7,9 @@ This is test study at Moringa Data Science class. The project here is to assume 
 This is done using Google Colab which runs on any browser so there is no need to install any other software.
 }
 ## Technologies Used
-{Python Pandas}
+Python Pandas
 ## Support and contact details
-{For any issues or queries, send me an email at endubi@gmail.com.}
+For any issues or queries, send me an email at endubi@gmail.com.
 ### License
 *{GPL.}*
-Copyright (c) {year} **{Emmanuel Ndubi}**
+Copyright (c) 2021 **{Emmanuel Ndubi}**
